@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name nicenano)(type KiCad)(uri ${KIPRJMOD}/nice-nano-kicad-master)(options "")(descr ""))
+  (lib (name keyboard)(type KiCad)(uri ${KIPRJMOD}/keyboard_parts.pretty-master/keyboard_parts.pretty-master)(options "")(descr ""))
+  (lib (name kbd)(type KiCad)(uri ${KIPRJMOD}/kbd-master/kicad-footprints/kbd.pretty)(options "")(descr ""))
+)

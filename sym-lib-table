@@ -1,0 +1,7 @@
+(sym_lib_table
+  (lib (name edoxpcb-rescue)(type Legacy)(uri ${KIPRJMOD}/edoxpcb-rescue.lib)(options "")(descr ""))
+  (lib (name nicenano)(type Legacy)(uri ${KIPRJMOD}/nice-nano-kicad-master/nice_nano.lib)(options "")(descr ""))
+  (lib (name keyboard)(type Legacy)(uri ${KIPRJMOD}/keyboard_parts.pretty-master/keyboard_parts.pretty-master/is31fl3731.lib)(options "")(descr ""))
+  (lib (name kbd)(type Legacy)(uri ${KIPRJMOD}/kbd-master/kicad-symbols/kbd.lib)(options "")(descr ""))
+  (lib (name edox)(type Legacy)(uri ${KIPRJMOD}/edox.lib)(options "")(descr ""))
+)
